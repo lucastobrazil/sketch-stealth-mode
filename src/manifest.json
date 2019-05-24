@@ -1,0 +1,18 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "my-command",
+      "identifier": "stealth-mode.my-command-identifier",
+      "script": "./index.js"
+    }
+  ],
+  "menu": {
+    "title": "stealth-mode",
+    "items": [
+      "stealth-mode.my-command-identifier"
+    ]
+  }
+}
