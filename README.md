@@ -1,10 +1,10 @@
-# my-plugin
+# sketch-stealth-mode
 
 ## Installation
 
 - [Download](../../releases/latest/download/my-plugin.sketchplugin.zip) the latest release of the plugin
 - Un-zip
-- Double-click on my-plugin.sketchplugin
+- Double-click on stealth-mode.sketchplugin
 
 ## Development Guide
 
